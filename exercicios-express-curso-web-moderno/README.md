@@ -2,18 +2,18 @@
  
 # Tecnologias Utilizadas
 
-    [Node.js](https://nodejs.org/pt-br/download)
+#   [Node.js](https://nodejs.org/pt-br/download)
 
-    [Postman](https://www.postman.com/downloads/)
+#   [Postman](https://www.postman.com/downloads/)
 
 # Dependências
 
-    [Express](https://expressjs.com/pt-br/)
+#    [Express](https://expressjs.com/pt-br/)
     ```npm install express --save```
 
-    [Body-Parser](https://www.npmjs.com/package/body-parser)
+#   [Body-Parser](https://www.npmjs.com/package/body-parser)
     ```npm install body-parser```
-    [Nodemon](https://www.npmjs.com/package/nodemon)
+#    [Nodemon](https://www.npmjs.com/package/nodemon)
     ```npm install -g nodemon```
 # E o nodemon será instalado globalmente no caminho do seu sistema. 
     ou
@@ -22,5 +22,5 @@
 
 # Dependências opcional para produção
 
-    [pm2](https://pm2.keymetrics.io/)
+#   [pm2](https://pm2.keymetrics.io/)
     ```npm install pm2 -g```
